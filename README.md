@@ -25,6 +25,28 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,angular&perline=6" height="95"/>
+</p>
+
+### ⚙ Backend & core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,python,c,cpp&perline=6" height="95"/>
+</p>
+
+### 🛢 Database & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github&perline=6" height="95"/>
+</p>
+
+### ➕ More technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,figma,linux,jquery,docker&perline=6" height="95"/>
+</p>
+
+<!-- ## 🛠 Tech Stack
+
+### 🚀 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,angular" />
 </p>
@@ -44,10 +66,10 @@
   <img src="https://skillicons.dev/icons?i=javafx" />
 </p> -->
 
-### 🛢 Database & Tools
+<!-- ### 🛢 Database & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github" />
-</p>
+</p> -->
 
 ---
 
@@ -74,8 +96,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="35" />
   </a>
 </p>
-
-
 
 ---
 
