@@ -85,10 +85,10 @@
 
 <p>
   <a href="https://www.facebook.com/khanhng.206">
-    <img src="https://tse4.mm.bing.net/th/id/OIP.6bVCrk3c5umM-_5mQ7sxOgHaHa?pid=Api&P=0&h=180" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
   <a href="https://www.instagram.com/k__h_a_n_h/">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.s56i6AGYEUHIXeCT46MaGAHaHa?pid=Api&P=0&h=180" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
 
