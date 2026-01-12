@@ -77,18 +77,18 @@
 - **Desktop:** JavaFX  
 - **System Programming:** C, C++  
 - **Tools:** Git, GitHub  
-- **Database:** MySQL, MongoDB  
+- **Database:** MySQL, MongoDB, Firebase
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="https://www.facebook.com/khanhng.206">
+    <img src="https://tse4.mm.bing.net/th/id/OIP.dMM4ik5-1xlCOVN91VfexwHaHa?pid=Api&P=0&h=180" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.instagram.com/k__h_a_n_h/">
+    <img src="https://tse1.mm.bing.net/th/id/OIP.QH3rKRYQPcM3xxmjubYmaAHaHW?pid=Api&P=0&h=180" />
   </a>
 </p>
 
@@ -96,4 +96,4 @@
 
 ## ✨ Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
+> *"Go beyond . PLUS ULTRA🔥🔥🔥"*
