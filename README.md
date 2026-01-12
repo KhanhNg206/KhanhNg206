@@ -30,18 +30,18 @@
 
 ### ⚙ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,python" />
 </p>
 
 ### 🖥 Desktop & Core
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
-
+<!-- 
 ### 🎨 UI / Framework
 <p>
   <img src="https://skillicons.dev/icons?i=javafx" />
-</p>
+</p> -->
 
 ### 🛢 Database & Tools
 <p>
@@ -53,21 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanhNg206&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNg206&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🧠 Skills Summary
@@ -83,14 +74,18 @@
 
 ## 🌐 Connect With Me
 
-<p>
+### 🌐 Connect with me
+
+<p align="left">
   <a href="https://www.facebook.com/khanhng.206">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" height="35"/>
   </a>
   <a href="https://www.instagram.com/k__h_a_n_h/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
   </a>
 </p>
+
+
 
 ---
 
