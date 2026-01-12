@@ -18,6 +18,7 @@
 - 🌐 Web & Desktop Application  
 - 📚 Love learning new technologies  
 - 🎯 Focus on clean code & architecture  
+- 🎓 IT student at Ho Chi Minh City University of Industry (2023–2027)
 
 ---
 
@@ -45,20 +46,9 @@
 
 ### 🛢 Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhanhNg206&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNg206&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 ## 🧠 Skills Summary
