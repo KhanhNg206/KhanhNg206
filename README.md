@@ -76,7 +76,7 @@
 ## 🧠 Skills Summary
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular  
-- **Backend:** NodeJS, Java, Python  
+- **Backend:** NestJS,NodeJS, Java, Python  
 - **Desktop:** JavaFX  
 - **System Programming:** C, C++  
 - **Tools:** Git, GitHub  
